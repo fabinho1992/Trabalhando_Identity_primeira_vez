@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\bin\Debug\net7.0\Infraestrutura.deps.json
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\bin\Debug\net7.0\Infraestrutura.runtimeconfig.json
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\bin\Debug\net7.0\Infraestrutura.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\bin\Debug\net7.0\Infraestrutura.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\bin\Debug\net7.0\Entidades.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\Infraestrutura.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\Infraestrutura.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\Infraestrutura.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\refint\Infraestrutura.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\Infraestrutura.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\Infraestrutura.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\CursosUdemy\ApiBarbearia\WebaApi_Barbearia\Infraestrutura\obj\Debug\net7.0\ref\Infraestrutura.dll
